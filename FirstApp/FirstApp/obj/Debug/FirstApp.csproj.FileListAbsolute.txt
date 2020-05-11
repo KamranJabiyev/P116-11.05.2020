@@ -1,0 +1,6 @@
+E:\P116\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+E:\P116\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+E:\P116\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+E:\P116\FirstApp\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+E:\P116\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+E:\P116\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
